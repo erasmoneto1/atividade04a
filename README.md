@@ -4,7 +4,7 @@ Resolução da atividade 04a
    · git add - ok
    · git commit - ok
    · git push - ok
-   · git checkout
+   · git checkout - ok
    · git merge
    · git pull
    · git remote
